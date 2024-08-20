@@ -1,0 +1,9 @@
+names:
+- prohibitory
+- danger
+- mandatory
+- other
+nc: 4
+path: ./
+train: D:\Python\sup\YOLO_ver_2\datasets\images\train
+val: D:\Python\sup\YOLO_ver_2\datasets\images\val
